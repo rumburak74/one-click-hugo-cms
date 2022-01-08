@@ -9,7 +9,7 @@ intro:
   heading: What we offer
   text: hfg
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/icons-twitter.svg
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local
